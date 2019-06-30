@@ -1,0 +1,41 @@
+# Site settings
+title: "희-스토리"
+description: "광고&마케팅 관련된 정보를 제공합니다."
+url: "http://heestory.me"
+author:
+  name: "hee"
+  email: "sangh2_ryu@naver.com"
+  url: "http://heestory.me"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+Plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: "gwanggoin-ddoneun-marketeoyi-ilgi"

@@ -1,0 +1,100 @@
+---
+layout: post
+title: 2019년 여름휴가 트렌드 분석
+date: 2019-06-30 10:30:00 +09:00
+author: "sangh2"
+permalink: /summer-vacation-trand-2019/
+image:
+  feature: summer1.jpg
+categories:
+  - 마케팅
+  - 트렌드
+  - 여름휴가
+  - 여행
+  - travel
+tags:
+  - marketing
+  - trand
+  - summervacation
+  - 여름휴가
+  - 여행팁
+description: 2019년 국내외 여름휴가 트렌드에 대해서 알아보자.
+---
+
+
+
+###### (*해당 분석은 2019년 5월 오픈서베이 분석 자료 기반으로 정리되었습니다.)
+
+직장인이라면, 당연지사 여름휴가의 큰 로망을 가지고 있습니다. 물론 요즘에는 여름 휴가, 겨울 휴가 할 것 없이 휴가를 자유로이 쓰고, 시시때때로 해외에 나가고 있지만, 휴식의 대명사와 휴가의 타당성을 ‘여름휴가’라는 네글자로 함축하고 있어 여전히 휴가의 대장이라고 부를 수 있습니다.
+
+
+
+
+
+‘여름휴가’는 꼰대 같은 상사들에게도 프리패스로 결재가 넘어가고, 때로는 긴 휴가도 (약간의 눈치는 보겠지만) 쓸 수 있는 마법이 있습니다. 하지만, 우리를 발목 잡는 제약은 회사뿐만 아니라 시간/비용에 제약을 가지고 있습니다. 제약을 고려하며 어떤 여름휴가를 계획하고 있을 까요?
+
+![여름휴가계획1](https://lh3.googleusercontent.com/uVFx3LwUNawvZC5CLbZffZQZtQW_do6UbE9jLah6f9xAScHQoJOSt_yF2QbC0M6fHCqDQjMn71CutO0Vip3pfqvujgIAbbiuz-tIajz1PBDpdpI9JxwN_Bng5_5X7KnRSwi8AdRrqO-ipnHlM6kjtxS58QBGZ8mXuIJRj2F1cpKLjBUAPY2MpBCNhgJLJs4P4siki9MerT65kIFmzxG81CmiMpw166MGZCf1xnKGqQ7h-ITAjA4LURoxRF0FuMBCgtXSGJOvED9cVoIMYewvRw7Bi6EpRp6pDRrMmPhS3SRnkeCb1As1EdXVl956JATbszAR4srT91xaJO-Pvp2c4H5cd5SEQxADKesvMsHnegbo308AlIgVAZBUu0FPBw9YGYNQpBDUHWpKl3PIdG7K8j5iq_gI57DM-0X5vYIwX-cltZTcMH1OxDo_GQ_MLi42qrB3xKQ6y0EPB8xL0bIHJcY-jIXR1nJCVq8ftvaIIdbHl84Xi_nV7KrzfNtKdBcI3P7wlq6qc13MgTpDOED09VBqUXxS26G33Hc40hebX1FGURZ8TD8HNKe4kZpOhYjpwU8g8oqpx-XXyoYVKJgYRqALCpQvC32hnOQraRSemb9CrE8CdaC0j45dGGA8mny_MU6XK7N7nTzdVkDHqvz1d6OccVl4zQ=w657-h500-no)
+
+
+
+
+
+전체 응답자중 무려 66%가 6~9월에 여름휴가를 계획하고 있습니다. 부글부글 끓는 도시의 열기가 업무효율도 낮추지만, 시원한 바다를 떠올리게 하는 이유는 아닐까요? 젊은 연령일수록 해외여행을 선호하고 있습니다. 국내여행자와 해외여행자는 어떠한 선호를 가지고 있는 지 보다 자세하게 살펴보겠습니다.
+
+![여름휴가계획2](https://lh3.googleusercontent.com/O5ByZPAeTqRV6bSS95sRmccfSOeAx3yHZpa58JCgrvHwt271d95vLZ4sL91zvGc96biEjY71H4hhawcyW6Qm2lzxUBaM2z8_d7UX5AOijNDcxV86rVYZPpOhj1kr4Fp3ELsJWc5S0UKl1PvGhIMyZ_Wwdyf2_ILjE-h5nK0FT80wVK033YDycCSiGW4EwPw607rm11luFUChBZlhSV8qiDqcENAG9Tqdk97KuXyk39YkHRNPneIZj3OTHBaCxKAPdUfWTzPqU_SIrlmlzDpW-yu1XJYrhAUjQDHc_udOj9j0ciB-vH5R_byJneTaaBIMukinC3avLabIZrImiKBKbkWdYXNxPBW2RzVVeAoLTug5qQyRfR0XD3UxK0tB_brdLddeCzK_BA_qqi1DnLdSXZyzTC98K32HZH89EEtrIUzgHxO_SGhCBJ6-gA-JIAOOrGh8qs_qmQDqqM2iSRc2XZdhjNn1IUgF2szLVyHae-Dg88okap8HzIdmx9xS7x42WU_3d-RvrNpGw4R3Q0dkv-RrnRis42YPTpGh-1q23A7hkUz5OIGf_OSeqaP1FoiqNKgXRUlPMNOm3J6OH8P80IzlmaVXEAsB9lucFKZrNq0hdU4NjWHVND7bJiE2RRK9mD1HKFdqTphUukGxe66x3C4-nSXWpg=w662-h497-no)
+
+![여름휴가계획3](https://lh3.googleusercontent.com/uUqdMhHfdCy6fjos-1FW6R3TVi8tTMlV61y01UAJTTs4StQ3eNAXcHOyBc4Gb8DGaN6MAukT1S6V9NR1zVSYgr6YduESCcs4sww3ssNbTj6UMk9AnfPhAI3EgxEZ5TLo5i1JiGo4D4_TiAkDTokbEe1Gp3Ifxxzl8rqJ62Ru1gepWtwyx6IvUzZeWN1gy9ha0OKIb_wf7zAHeySPTDANYUhWWCR_acP2avkGTkWMGoNKy4KNexZ-wLzFg7hzgbNpXLN_tQR64wTL3VkSfqp-GqQItV1CwQ7TgBEYHUjGBw0RgVYQic0MvqdrVQDlh88fh0-IU2RuFdV64GvxpEGrnPVgJnHzdeleyLYtiacn_Bu6g9ATHZyklMkNJlJoESQB2QpxA5G2RLzniNonQHUEjTvkCG4sBBmcF6NS8L6-oubFH1CIjLkf1Q3XjLnxBeDspv1cZdVep0SnwIcdRftuQrPCebipSONv7cdENIUdqqpdi0cEc0Cu9sTnItHhzd1HcPmSA7frz5WaBxYJEh5q1HdwhxtRi-_5HTtqu_dBynxWQhr48i1DsfFDIEJ2wh3l1cgZGbaMbfs5xUg12DFMxJ3ux3lSgdaina-tdZ12dKI6QdrRfrSSJY07FJsIarvbZcsbU1bAUwjUSqhXmJpSQ5RCBi6dag=w672-h502-no)
+
+국내여행의 경우 8월 초에 집중될 것으로 예상되며, 여행지는 크게 강원도, 제주도, 부산을 손꼽았습니다. 가장 많은 계획지역인 강원도는 40-50대의 지지를 받았으며, 젊은 연령들은 제주도와 부산을 선호했습니다. 이러한 특성들은 여행에서 하려는 것에서 이유를 찾아볼 수 있습니다.
+
+
+
+
+
+![여름휴가계획4](https://lh3.googleusercontent.com/U0qkSYqUv3JQPMCZhf_mFxhY7u8Yj8pqYDhtX3EdLlzmTpgh3oTMBd5dP-X-hafg-y4JgiRwibs7_Av2EN_ejKrkGT1cj7LD6kQUFYmz9dlPvDkVs9NoeKyrTDv6yw8fJs_qPk5NJ5W1U0ZWthEB5ktiTLyWNHIUJYMLxl8q9BSFlY_BVR8QCu6XWXDJRJ8gFnbrTC1quSn3QrE-FsuyTS7xL2n-v8VkiPQ1_Hxd3vJI2zepLNcGhUtPH0J7GKRGPrnc9mc8BAhJHFlgScADpDI-fIjTuAZyUXBB65ysOTApSCNZe-W6eweyhSpXLNyuuY718kxe1vRa2Y6ohpArh-towmfG3WmgQspZ9tmG7PhGazl7hKnHV0VKUwNtFiYRDZhCZzePanlmW5NkuxUWYBklWg-bwWz8bhlcctECU-eG3hHrzA4PJWtO6btgrvXq3g5uOtA8bViSqrHZ4PTAPPmctZP9_VJ-MYVDimY8etXapGbhcRHJzJCNbRwcZOMlq2t5Zg06N6FnT8fLrZSDYII0cEyfj5VflWcuLQnAGEelyYf5cT_usDZB09WxCNH1wh0IarFkbY181UIb8z82K4JNcOfzQxzmErfOd2g9lh0_1ssTZvHq-nHwT7_bD3v-ZoKE7LwgYjO38gfIwjo2bNlxPzqxsg=w669-h448-no)
+
+20대의 경우 눈에 띄게 스냅사진 촬영, 공연 관람, 수상레포츠를 꼽았으며 SNS에서 많이 보이는 제주도와 부산을 여행지로 꼽았다고 추측할 수 있습니다. 반면 40-50대의 경우 온천, 스파, 놀이동산, 등산을 선호하고 있어 산과 온천&놀이동산이 잘 되어있는 강원도를 선호한 이유를 추측할 수 있습니다.
+
+
+
+![여름휴가계획5](https://lh3.googleusercontent.com/kCacvx4Wg-VD9DkCUk1qG3IOIWKozuY7CwqSc4LIjJ9aEHLfjl-Kipm20IQFMycgz0Ehg0togabX73BvwkXRYyi6ZReiuc23XSOcrk5VZeviufs8u_59lROEuZopvB0GQq6ekmsIrmsXY7TtNEbiXj_a620tmxcexIZuMlbXs8gzpRg4p-PhDXjclOwDteN_9ZccrX2YfctaRbYmKdi81GCHvidOIaf55aS_G6lEbh9Ldo7Iuc8g9_ZZelg9I4AodyGWKvWyWzji3dq8648KC-G-iQQBdvzK9NM-u0spEwj6guDaIXzM_yWkS52gaBM1XezC13TkDEPxlu-e-_oVpH2J-YuzC0MWpnX26oJJUxSi7KmW4P66hbFf0y9JnTiOGdxCEA9LnSj2fwEVgDSidqGkOwzYrelVuxst58q8eUhxoK2hrp8b5Oea-19S5-ZYmJxyyA93LIQkY66AaXYERgqD1-gwv6OHZYauMe59_3Z3wJC1K-IMqo3jE4dRSFlFjijWArsxxeg5dpqbA9PXcNiLMZjJrWAb88-w9Yg12_TJmzvrcIDr9M_5MfHZhf6wqGiKJ5nOyABxWQVb6hizbhg0P6KXr6bLrRimfE53DI9rCwYT8StG9HnKXlpUTPY9oUhCz_PYYxvgDM7F4m20WT6sZO8ImA=w619-h462-no)
+
+20-30대 일수록 인스타를 통해서 여행정보를 습득하고 있고, 40대는 블로그에 크게 의존하고 있었습니다. 여행관련해서 서비스를 제공하는 사업자들의 경우 홍보채널을 적절히 활용하는 것이 중요할 것으로 보입니다.
+
+
+
+
+
+
+
+
+
+이번엔 해외여행에 대해 자세하게 살펴보겠습니다.
+
+![여름휴가계획6](https://lh3.googleusercontent.com/FoQrKX-l0kzKBe2EwBGnu90dFMW2fqdZ3SMmO3577ANHY4qXHIaq_-EdDSHgWzW9GS_9inPPlSnTO3FkYih5Sb39ny60gsWQIikJGxnJDSigIDaqfALT-8p2y186VlH1XNCr8-0i_-gmIZkUYk3VvyqH0-Z_WcXb4CGY6MXFnh0JUYmvS0WE9nt_IgD1XQBTsE1t6Ewq5Kwb-DRvZKuemePvYna3EJ53mgX3xeHURjMaDniVJbkWJtx-Ad7KJOSeONKikoRAAZwp-gD9YgWZ0u8YQ900TW0C2sIkkvEkSM0Yj2m4ybL1dcfaMf97GzRNQ0MuZ-CSgJakn0T3-aHUO3y2Tp9Vc8SoAryc8rtSfWb-aOUEUgU2v758MWT1tCe-tVecmXzxhta2B-kVlmZRTfrmRrwMJgPJIjXV5v4L5Vu62pGO5BSUhjEgna2x0y4kZBBTYDXL7wD6Bz1GFlf5hp8LPi_4aVCC_x-o0lm9qVYAgl83JUXKbYRdGja6iObl3auN9shYIb9AXec2rgWwbidTvmcY4MFdsI__f0uHBm95vf5MnOSXfwyAIIUCbO7N9NdJXuKpSzsmIq6SpWkmGEdlXo4Ra0ugAEyCCTgyuEi6xr4xysPuCp1Vnb-C8gcd-xCxk1oCjPEvnUaLUXSUbI3trM3YqQ=w664-h496-no)
+
+해외로의 여행의 경우 7월 중순부터 8월 중순까지 계획하고 있습니다. 눈에 띄는 것은 20대는 서둘러 7월초부터 떠나는 반면 40대는 8월 중반 이후로 계획하고 있습니다. 이는 사람이 몰리는 일정을 피해가려고 하는 것을 볼 수 있습니다.
+
+
+
+
+
+![여름휴가계획7](https://lh3.googleusercontent.com/877Ql87F3eD15ZqY2uTUhAOVuXgsTmbzd3E4tsHJ0kAeHmlFTh_p9hRCTG8HpTQzxbXPkgtUMQB6DGZYHfT0s2Ltw5XKQRuDdH7dkQD0G3wvCthepX--PEHZGxN1egQic4uKzcNpBwSXWSnUVsP5I8d0eigPUizDH3WdLGpSIrrkfw0bNYwCVKNERdM0eaO0D4ZdvYQsnIGhDBkdt6-nmaDrp9I4xYXxmZDjnTJNMNOhdbCxeAe4lpJA2rdC4C9cOauXpRJvLjNQVzTIqHTt68yRtUEVZom_sczCMN4DOjSwSsIpjw8cOsg9-cmtJBfKatcNzvvC1C_amfjVflgiO_ukIdCf1LX0_TX_ymbEpX02_Aclil7bYHXE2kY7P1mTKzThVOz7g1mptm9Pk9FUs7zmngFBKZEJdG5nF0D-xzpyxalsXrZxeion2Z_X53crs-OveKulCyn8R-kIa_bYc4K3OKt7IgXzC4JYdVR2mPQV6GYbAy3z4V6sS13LBSsDvjg2qZC2_L2v02gFWEO9s-nhl6T09q0yokCx9nos01VthgBs7WWtUVCMKv1khGB5-mdOxF4QMXWfHcQi9LSuubN6LqKYyeLGITGo234xbMfp_aZGLhNxdFg6h7ORFxWIY50__cw2hJdd_-l6CyolN7eX1U_Sow=w666-h498-no)
+
+20대의 경우 가까운 일본, 30-40대는 쉴 수 있는 동남아, 비교적 시간을 자유롭게 쓸 수 있는 50대는 유럽을 가려는 비중이 높았습니다.
+
+![여름휴가계획8](https://lh3.googleusercontent.com/FRFh6VcQB8z9iT6r44eR-dzvBbBPvPdz8NCka6j2lknozsydfuGzLx9sbiKM_kjTLzkPbqXCq53kdapg3OsMfpG4pR8JAvBH9Iqq1dC7wvWFdbUrQKaFT_In1wo_FBwXwluEOgI2alxyWVOS8XZCSrR-H8r_2HDemq-UIhj5G94cLA_dmLesvZxjLzBTb2_8sXNQCbrfQABF27GeobjPGtucome89NTC_PExx3SS3OrmGxu1ZHPO1EqzScE2_7r0txvme7q1yG2sXHCV8o3k5GYG4oUacMfofdd4KfnddtKiQ6Ut_PlgsQyS3FloXs56fSWy4Q8VPzPtDGmD_8TsMB8DiuTUGLyuy68FldSa8onuSMLPtP9S0AFwkPGYnv6_iLtJ8L46aWn5XksdDUbBIf7V_bWxFySf4unJ85zJ1da6WuyTOu8DB1GoAW1-mbStzMYY3gUSLgM8d13l2yOP_dNNtyymJ31Nx4j4r7p1Ad1QcJmfUR-n-F6sI9GhyHX2NN1GylmSknA9UsmhHVUlO6QprASkifiGdajOw4qDD84EZkPMMNn9A9O8vZm43JW2QM9_aL0Ob43-E5dhoqiJ5uYXEi_v1ZhlCpDzfQqEVD7h__x_nZGjAjeHX8qIrsACbF57vg_L23CCa7-HJy1wRfsqucSD2g=w677-h502-no)
+
+해외여행도 자유여행이 70%로 많았고, 패키지 여행은 24%로 나타났습니다.
+
+
+
+
+
+![여름휴가계획9](https://lh3.googleusercontent.com/gLAE3SuAPOnJg5Myx9YPx2yibJ1r0IA3YyBeh9mhPsHvkZGf6rjxVbjmtnMYYVOTm4VwqVReBJBHOFvdsqYneRyL7S-X-08ILnK_6CcCG6hgp6UNQu7WnVplHxru9f4zNbdq9KusjtOAfHKlBFHOVB_CGIve3VQDmj3he2wpz35v8QQUdYhXurWlw1HDKaKyesufoOpbVn3-kcUaTfHis_PW-Uc9rQ3eMInMH88nfaYYstrRHCcALR5YgynMUZ2f2_wf3LHDSDm8aK-1qwqbxSb5bZXC9XkwI0O9ucHw9CeHg4xCG7pV_N1qLoKtl05uhJYqQt6bRF8gc2agXmwe79LiJ6SzDKzvuRVNBGchQFzcW1wySRyOkmDR-SAOeT009UdEO_OAh8Yb4QaOy-mE_OOk_CAl2ofccaJVU5E5sc7TsXWQ0miVR8rGNGT6M7p03cS54KNESqqioPXz-8JaNf9gkG_Da-E4nssrZDb2_248I5eEZa_lLMXfm5ywNwdxqbfqTcOczc0YP_QpCo4X2wDsLqeG8J70cIH5i4Bdnz7M50RgW7C00c5e-P6RTpb8hg00OcRap31lCTP8l-dh-8OYDePIky3fN8VJRggJUXSzM9f8T7UIu91lHAvQL-LMRSRcGWqMmAR0qGh9G5GRiDUuwE29DA=w661-h506-no)
+
+국내여행과 마찬가지고 4-50대는 여행정보를 블로그를 통해 접했으며, 20대도 동일하게 인스타그램을 통해서 여행정보를 습득하고 있었습니다.
+
+
+
+당신의 경우 어떠한 여행을 이용하시나요? 2019년 여행행태도 간단하게 확인해보시고, 즐거운 여행을 계획하세요! 감사합니다.
